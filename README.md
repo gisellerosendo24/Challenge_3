@@ -7,6 +7,8 @@ Este proyecto tiene como objetivo desarrollar modelos predictivos capaces de pre
 
 ```plaintext
 ├── Challenge_3.ipynb
+├── Challenge_3.png
+├── Data Science-Challenge3.png
 ├── Resumen_3.pdf
 ├── Telecom_X_2.cvs
 ├── TelecomX_diccionario.md
