@@ -1,7 +1,3 @@
-![Análisis de Evasión de Clientes - TelecomX](Challenge_TelecomX.png)
-
-
-
 # Challenge_3 - Telecom X
 
 Bienvenido al repositorio del tercer desafío de Data Science para One. 
@@ -87,7 +83,7 @@ Challenge_3.ipynb
    
 ## 📄 Informe final 
 
-1. Abre Jupyter Notebook:
+Para obtener un resumen del desafio, consulta el siguiente archivo
   ```plaintext
 Resumen_3.pdf
   ```
